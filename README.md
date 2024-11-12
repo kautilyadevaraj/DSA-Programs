@@ -10,6 +10,7 @@ This repository contains solutions to problems I have solved on various competit
 - LeetCode
 - CodeChef
 - HackerRank
+- GeekForGeeks
 
 Each solution is crafted to be efficient and readable, with explanations or comments where necessary to clarify my approach.
 
