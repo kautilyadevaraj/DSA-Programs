@@ -6,7 +6,6 @@ Welcome to my repository of solutions for various competitive programming proble
 
 This repository contains solutions to problems I have solved on various competitive programming platforms, including but not limited to:
 
-- Codeforces
 - LeetCode
 - CodeChef
 - HackerRank
