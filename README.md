@@ -1,6 +1,7 @@
 # Competitive Programming Solutions
 
-Welcome to my repository of solutions for various competitive programming problems. This repository serves as a personal collection and tracker of my progress across multiple competitive programming platforms.
+Welcome to my repository of solutions for various competitive programming problems. 
+This repository serves as a personal collection and tracker of my progress across multiple competitive programming platforms.
 
 ## About
 
