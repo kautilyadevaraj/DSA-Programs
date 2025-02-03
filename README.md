@@ -24,6 +24,7 @@ I use the following languages for solving problems, depending on the platform an
 - C++
 - Java
 - C
+- python
 
 ## Goals and Motivation
 
